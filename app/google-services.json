@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "684735774449",
+    "project_id": "pre-order-app-a0b3d",
+    "storage_bucket": "pre-order-app-a0b3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684735774449:android:2ac61c8c3acc90367cb350",
+        "android_client_info": {
+          "package_name": "com.example.pre_order_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684735774449-jkddl67eaoceidlcs9n98nb0ur1jv5vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSKhRu3v4GTL1laZ9Ug4JpS4lITPWboE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684735774449-jkddl67eaoceidlcs9n98nb0ur1jv5vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
